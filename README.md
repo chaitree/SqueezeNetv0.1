@@ -4,7 +4,7 @@
 
 ## SimpleCNN to test the pipeline using MNIST dataset
 
-## Challenges trying to resolve : 
+## Challenges trying to take into consideration : 
    1. Large number of classes
    2. Each classes having less number of images
 
